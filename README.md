@@ -1,10 +1,4 @@
-# Maze Test
-
-This coding example will form the basis of your interview (should you progress), you should be ready to explain any and all of the choices you have made when writing the code.
-There is no stated time limit but we would not envisage it would take longer than a couple of hours.
-The code must be representative of what you would produce 'on the job', by that we mean it must be clear, maintainable bug free and efficient.
-The zipped project provided uses maven; you should feel free to use any other tools you are more comfortable with.  
-There are 2 classes in it and you should feel free to change these in any way you see fit, including deleting them and starting again.
+# Example Coding Exercise: Maze Test
 
 The test is based on exploring any arbitrary maze (one is provided).
 
